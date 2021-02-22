@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle hex-pane",
+        "command": "hex-pane:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hex-pane",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hex-pane:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

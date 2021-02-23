@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "hex-pane",
+          "label": "Hex Pane",
           "submenu": [
             {
               "label": "Toggle",

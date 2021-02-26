@@ -1,6 +1,6 @@
-# hex-pane package
+# Hex Pane #
 
-A short description of your package.
+Display the current text file as hexadecimal in a new pane and renders invisibles.
 
 # Worklist #
 - highlighting with cursor in editor highlights output
@@ -8,5 +8,3 @@ A short description of your package.
 - make it not look as jarring
 - more settings, prefix with 0x, suffix with h, all lower, all upper, etc.
 - possibly to update to new editor on window change, and track that editors buffer
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)

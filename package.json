@@ -2,13 +2,13 @@
   "name": "hex-pane",
   "main": "./lib/hex-pane",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Renders the current text file as hexadecimal in a new pane.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "hex-pane:toggle"
   },
-  "repository": "https://github.com/atom/hex-pane",
+  "repository": "https://github.com/mattbrooks1972/hex-pane",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

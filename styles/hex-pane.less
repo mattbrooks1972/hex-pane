@@ -5,10 +5,13 @@
 @import "ui-variables";
 
 .hex-pane {
-	padding: 0.6em;
 	overflow-y: scroll;
 	background-color: @pane-item-background-color;
+	display: flex;
+}
+
+.output {
+	padding: 0.6em;
 	white-space: pre;
 	font-family: monospace;
-	display: flex;
 }

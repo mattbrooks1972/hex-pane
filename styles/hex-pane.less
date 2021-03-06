@@ -3,6 +3,7 @@
 // See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
 // for a full listing of what's available.
 @import "ui-variables";
+@import "editor.less";
 
 .hex-pane {
 	overflow-y: scroll;
@@ -13,6 +14,6 @@
 .output {
 	padding: 0.6em;
 	white-space: pre;
-	font-family: monospace;
+	font-family: var(--editor-font-family);
 	tab-size: 2em;
 }

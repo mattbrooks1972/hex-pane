@@ -1,7 +1,7 @@
 {
   "name": "hex-pane",
   "main": "./lib/hex-pane",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Renders the current text file as hexadecimal in a new pane.",
   "keywords": [
     "pane",

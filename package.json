@@ -5,7 +5,9 @@
   "description": "Renders the current text file as hexadecimal in a new pane.",
   "keywords": [
     "pane",
-    "hexadecimal"
+    "hexadecimal",
+    "preview",
+    "convert"
   ],
   "activationCommands": {
     "atom-workspace": "hex-pane:toggle"

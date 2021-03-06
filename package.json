@@ -3,7 +3,10 @@
   "main": "./lib/hex-pane",
   "version": "0.4.2",
   "description": "Renders the current text file as hexadecimal in a new pane.",
-  "keywords": [],
+  "keywords": [
+      "pane",
+      "hexadecimal"
+  ],
   "activationCommands": {
     "atom-workspace": "hex-pane:toggle"
   },
